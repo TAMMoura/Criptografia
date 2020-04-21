@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://www.codenation.dev/">
-        <img src="https://codenation.dev/_nuxt/img/e59d026.svg" height="150" width="150">
+        <img src="https://www.codenation.dev/img/social-meta-home.png" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 585px; height: 307.125px; margin: 0px;">
     </a>
 </div>
 
