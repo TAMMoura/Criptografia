@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://www.codenation.dev/">
-        <img src="/_nuxt/img/9bd98ba.svg" data-v-4c85ced4="">
+        <img src="https:codenation.dev/_nuxt/img/9bd98ba.svg" data-v-4c85ced4="">
     </a>
 </div>
 
